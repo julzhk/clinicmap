@@ -24,15 +24,20 @@
             );
         }
         function make_circle(latitude, longitude, label, map, size ) {
+            var colour = '#f00';
+            if (size==0) {
+                   var colour = '#000';
+                   size = 1;
+            }
             new google.maps.Circle({
-              strokeColor: '#FF0000',
+              strokeColor: colour,
               strokeOpacity: 0.4,
               strokeWeight: 1,
-              fillColor: '#FF0000',
+              fillColor: colour,
               fillOpacity: 0.5,
               map: map,
               center: new google.maps.LatLng(latitude, longitude),
-              radius: 50000+ (20000*size)
+              radius: 25000+ (6000*size)
             });
         }
         function initialize() {
