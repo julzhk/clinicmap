@@ -1,0 +1,371 @@
+PKEY,Country,DataYear,FacilityName,FacilityCity,FF,UNFPA,Engender,AMREF,WAHA,MSF,DRI,FfFF,OneByOne,CBM,GFMER,Other,List Other,Latitude,Longitude,AllDataYear,Subregion,Region,Scale,Confidence,Source,BPID,ISO2
+1,Chad,2011,Abéché General Hospital - Papillon Project,Abeche,0,0,0,0,0,1,0,0,0,0,0,0,,13.82916,20.8324,2011,Middle Africa,Africa,5,4,Google Earth,NULL,TD
+2,Sierra Leone,2011,Aberdeen Women's Center,Freetown,0,1,1,0,0,0,0,1,0,0,0,1,Gloag Foundation,8.48596,-13.23097,2010201120122010,Western Africa,Africa,5,4,Google Earth,57425,SL
+3,Ethiopia,2011,Adama University Assela Referral Hospital,Assela,0,1,0,0,1,0,0,0,0,0,0,0,,7.9678,39.1323,2011,Eastern Africa,Africa,6,3,Google Earth,NULL,ET
+4,Bangladesh,NULL,Ad-din Women’s Medical College Hospital,Dhaka,0,0,0,0,0,0,0,0,0,0,0,0,,23.7104,90.40714,NULL,Southern Asia,Asia,5,4,Google Maps,NULL,BD
+7,Ethiopia,2013,Aira Hospital,Aira,1,0,0,0,0,0,0,0,0,0,0,0,,9.09449,35.39742,2010201120122010,Eastern Africa,Africa,6,5,Google Earth,NULL,ET
+8,Yemen,2011,Al-Thawra Hospital,Sana'a,0,1,0,0,0,0,0,0,0,0,0,0,,15.3509,44.2209,2010201120122010,Western Asia,Asia,9,8,Google Earth,NULL,YE
+9,Ethiopia,NULL,Ambo Hospital,Ambo,0,0,0,0,0,0,0,0,0,0,0,0,,12.46667,36.2,NULL,Eastern Africa,Africa,5,4,Google Earth,NULL,ET
+14,Uganda,2011,Arua Regional Referral Hospital,Arua,0,1,0,0,0,0,0,0,0,0,0,0,,3.0198,30.9129,2010201120122010,Eastern Africa,Africa,9,8,Google Earth,NULL,UG
+16,Nepal,2011,B. P. Koirala Institute of Health Sciences,Dharan,1,1,0,0,0,0,0,0,0,0,0,1,Women's Rehabilitation Center,26.80942,87.26552,2010201120122010,Southern Asia,Asia,8,8,Google Earth,59129,NP
+17,Tanzania,2010,Babati Hospital,Babati,0,0,0,0,0,0,0,0,0,0,0,0,,-4.21667,35.75,2010,Eastern Africa,Africa,5,4,Google Earth,NULL,TZ
+18,Nigeria,2011,"National Obstetric Fistula Center, Babbar Ruga","Katsina, Katsina State",1,1,1,0,0,0,0,0,0,0,0,1,"MGD, Service to Humanity Katsina",13.00045,7.60266,2010201120122010,Western Africa,Africa,9,8,Google Earth,NULL,NG
+19,Gambia,NULL,Bafrow Well Woman and Family Clinic,Banjul,0,0,0,0,0,0,0,0,0,0,0,0,,13.45342,-16.57775,NULL,Western Africa,Africa,5,4,Google Earth,NULL,GM
+20,Ghana,NULL,Baptist Medical Centre,Nalerigu,0,0,0,0,0,0,0,0,0,0,0,0,,10.5201,-0.3657,NULL,Western Africa,Africa,9,8,Google Earth,NULL,GH
+22,Ghana,NULL,Battor Catholic Hospital,Battor,0,0,0,0,0,0,0,0,0,0,0,0,,6.07297,0.40693,NULL,Western Africa,Africa,4,1,Google Earth,NULL,GH
+23,Pakistan,2010,Benazir Bhutto Shaheed Women and Children Teaching Hospital,Abbottabad,0,1,0,0,0,0,0,0,0,0,0,0,,34.14576,73.21483,2010201120122010,Southern Asia,Asia,8,8,Google Earth,NULL,PK
+24,Democratic Republic of the Congo,NULL,Beni General Hospital,Beni,0,0,0,0,0,0,0,0,0,0,0,0,,0.4867,29.459,NULL,Middle Africa,Africa,8,5,Google Earth,NULL,CD
+25,Tanzania,2010,Berega Hospital,Morogoro,0,0,0,0,0,0,0,0,0,0,0,0,,-6.1804,37.1462,2010,Eastern Africa,Africa,7,3,Google Earth,NULL,TZ
+26,Cameroon,NULL,Bertoua Regional Hospital,Bertoua,0,0,0,0,0,0,0,0,0,0,0,0,,4.57677,13.68347,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,CM
+27,Democratic Republic of the Congo,2011,Biamba Marie Mutombo Hospital,Kinshasa,0,1,1,0,0,0,0,0,0,0,0,0,,-4.3908,15.3809,20102011,Middle Africa,Africa,9,5,Google Earth,NULL,CD
+29,Nigeria,2010,Birnin Kebbi Fistula Centre,"Birnin Kebbi, Kebbi State",0,0,0,0,0,0,0,0,0,0,0,0,,12.45389,4.1975,2010201120122010,Western Africa,Africa,5,4,Google Earth,NULL,NG
+30,Central African Republic,NULL,Boguila Hospital,Boguila,0,0,0,0,0,0,0,0,0,0,0,0,,7.1309,16.9313,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,CF
+31,Côte d'Ivoire,2011,Bondoukou Regional Hospital,Bondoukou,0,1,0,0,0,0,0,0,0,0,0,0,,8.02813,-2.79242,20102011,Western Africa,Africa,5,4,Google Maps,NULL,CI
+32,Democratic Republic of the Congo,2010,Bonga-Yassa General Hospital,Bonga,0,0,0,0,0,0,0,0,0,0,0,0,,-4.5668,17.8,2010,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+33,Côte d'Ivoire,2013,Bouaké University Hospital,Bouaké,0,1,0,0,0,0,0,0,0,0,0,1,"KOICA, J&J",7.7007,-5.0358,2010201120122010,Western Africa,Africa,9,6,Google Maps,NULL,CI
+34,Democratic Republic of the Congo,2010,Braaza Central Hospital,Kindu,0,0,0,0,0,0,0,0,0,0,0,0,,-2.95206,25.95129,2010,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+35,Tanzania,2011,Bugando Medical Centre,Mwanza,0,0,0,0,0,0,0,0,0,0,0,1,AmeriCares,-2.5295,32.908,2010201120122010,Eastern Africa,Africa,9,5,Google Earth,1191,TZ
+38,Democratic Republic of the Congo,2010,Butembo Obstetrics and Gynecology Clinic,Butembo,0,0,0,0,0,0,0,0,0,0,0,0,,0.1297,29.2879,2010,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+39,Malawi,2011,Freedom from Fistula Foundation Fistula Care Center,Lilongwe,0,0,0,0,0,0,0,1,0,0,0,0,,-13.96692,33.78725,201120122013,Eastern Africa,Africa,5,4,Google Earth,56417,MW
+41,Uganda,2011,Church Of Uganda - Kisiizi Hospital,Rukungiri,0,0,0,1,0,0,0,0,0,0,0,1,Good Samaritan Fund,-0.9981,29.9439,2010201120122010,Eastern Africa,Africa,7,5,Google Earth,NULL,UG
+42,Central African Republic,NULL,Castors Health Center,Bangui,0,0,0,0,0,0,0,0,0,0,0,0,,4.36,18.55,NULL,Middle Africa,Africa,5,4,Google Maps,NULL,CF
+43,Benin,2011,Central Departmental Hospital of Borgou/Alibori,Parakou,0,1,0,0,0,0,0,0,0,0,0,0,,9.3355,2.6362,2011,Western Africa,Africa,9,4,Google Maps,NULL,BJ
+44,Madagascar,NULL,Central District Hospital Antalaha,Antalaha,0,0,0,0,0,0,0,0,0,0,0,0,,-14.90033,50.27876,NULL,Eastern Africa,Africa,9,4,Google Earth,NULL,MG
+45,Republic of the Congo,NULL,Central Hospital of Armées,Brazzaville,0,0,0,0,0,0,0,0,0,0,0,0,,-4.274,15.2669,NULL,Middle Africa,Africa,8,5,Google Earth,NULL,CG
+46,Cameroon,2010,Central Hospital of Yaoundé,Yaoundé,0,0,0,0,0,0,0,0,0,0,0,0,,3.9064,11.5413,2010,Middle Africa,Africa,8,5,Google Earth,NULL,CM
+47,Mozambique,2013,Central Hospital of Beira,Beira,0,0,0,0,0,0,0,0,0,0,0,0,,-19.8369,34.8423,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,NULL,MZ
+48,Mauritania,NULL,Central National Hospital - Center for Mothers and Infants,Nouakchott,0,0,0,0,0,0,0,0,0,0,0,0,,18.0868,-15.9871,NULL,Western Africa,Africa,8,5,Google Earth,NULL,MR
+49,Togo,NULL,Central Prefectural Hospital Atakpamé,Atakpamé,0,0,0,0,0,0,0,0,0,0,0,0,,7.52728,1.12666,NULL,Western Africa,Africa,5,3,Google Earth,NULL,TG
+50,Togo,NULL,Central Prefectural Hospital Elavagnon,Elavagnon,0,0,0,0,0,0,0,0,0,0,0,0,,8.00067,1.29999,NULL,Western Africa,Africa,5,3,Google Earth,NULL,TG
+51,Togo,NULL,Central Prefectural Hospital Kara,Kara,0,0,0,0,0,0,0,0,0,0,0,0,,9.54912,1.1906,NULL,Western Africa,Africa,5,3,Google Earth,NULL,TG
+52,Togo,2011,Central Prefectural Hospital Kpalimé,Kpalime,0,0,0,0,0,0,0,0,0,0,0,0,,6.90253,0.63257,2011,Western Africa,Africa,5,3,Google Earth,NULL,TG
+53,Togo,NULL,Central Prefectural Hospital Notsè,Notsè,0,0,0,0,0,0,0,0,0,0,0,0,,6.95024,1.16665,NULL,Western Africa,Africa,5,3,Google Earth,NULL,TG
+54,Togo,NULL,Central Regional Hospital of Dapaong,Dapaong,0,0,0,0,0,0,0,0,0,0,0,0,,10.86679,0.20001,NULL,Western Africa,Africa,5,3,Google Earth,NULL,TG
+55,Niger,2010,Central Regional Hospital of Dosso,Dosso,0,0,0,0,0,0,0,0,0,0,0,0,,13.0476,3.2007,2010,Western Africa,Africa,8,5,Google Earth,NULL,NE
+56,Niger,NULL,Central Regional Hospital of Maradi,Maradi,0,0,0,0,0,0,0,0,0,0,0,0,,13.5,7.10174,NULL,Western Africa,Africa,5,4,Google Earth,NULL,NE
+57,Togo,NULL,Central Regional Hospital of Sokodé,Sokode,0,0,0,0,0,0,0,0,0,0,0,0,,8.98436,1.14949,NULL,Western Africa,Africa,5,3,Google Earth,NULL,TG
+58,Madagascar,NULL,Central Regional Reference Hospital,Ambovombe,0,0,0,0,0,0,0,0,0,0,0,0,,-25.17845,46.08805,NULL,Eastern Africa,Africa,5,4,Google Earth,NULL,MG
+59,Madagascar,2011,Central University Hospital Toliara,Toliara,0,1,0,0,0,0,0,0,0,0,0,0,,-23.3527,43.6759,2011,Eastern Africa,Africa,7,5,Google Earth,NULL,MG
+60,Republic of the Congo,2011,Central University Hospital of Brazzaville,Brazzaville,0,1,0,0,0,0,0,0,0,0,0,0,,-4.26496,15.26899,2010201120122010,Middle Africa,Africa,8,8,Google Earth,NULL,CG
+61,Mauritania,NULL,Central University Hospital,Nouakchott,0,0,0,0,0,0,0,0,0,0,0,0,,18.0868,-15.9871,NULL,Western Africa,Africa,6,5,Google Earth,NULL,MR
+62,Togo,NULL,Central University Hospital Kara,Kara,0,0,0,0,0,0,0,0,0,0,0,0,,9.54912,1.1906,NULL,Western Africa,Africa,5,3,Google Earth,NULL,TG
+63,Togo,2011,Central University Hospital - Sylvanus Olympia,Lomé,0,1,0,0,0,0,0,0,0,0,0,0,,6.14533,1.21262,201120122013,Western Africa,Africa,8,8,Google Earth,NULL,TG
+64,Burkina Faso,2013,Central University Hospital Sanou Souro,Bobo-Dioulasso,0,1,0,0,0,0,0,0,0,0,0,0,,11.1702,-4.3016,2010201120122010,Western Africa,Africa,8,5,Google Maps,NULL,BF
+65,Burkina Faso,2011,Central University Hospital Yalgado Ouédraogo,Ouagadougou,0,1,0,0,0,0,0,0,0,0,0,1,Women Association,12.3845,-1.5069,201120122013,Western Africa,Africa,8,5,Google Earth,NULL,BF
+66,Democratic Republic of the Congo,NULL,CEPAC Hospital Kyeshero/Goma,Goma,0,0,0,0,0,0,0,0,0,0,0,0,,-1.67917,29.22278,NULL,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+67,Laos,2010,Champasak Provincial Hospital,Pakse,0,0,0,0,0,0,0,0,0,0,0,0,,15.11654,105.80177,2010,South-Eastern Asia,Asia,5,4,Google Earth,NULL,LA
+68,Malawi,2010,Chikwawa District Hospital,Chikwawa,0,0,0,0,0,0,0,0,0,0,0,0,,-16.03295,34.80057,201020122013,Eastern Africa,Africa,5,4,Google Earth,NULL,MW
+69,Cambodia,2011,Children's Surgical Center,Phnom Penh,0,1,0,0,0,0,0,0,0,0,0,1,New Day Foundation,11.6003,104.9313,2010201120122010,South-Eastern Asia,Asia,9,5,Google Earth,NULL,KH
+70,Zambia,2011,Chitokoloki Mission Hospital,Chitokoloki,0,0,0,0,0,0,0,0,0,0,0,0,,-13.83475,23.21274,2011,Eastern Africa,Africa,9,9,Google Earth,NULL,ZM
+71,Bangladesh,NULL,Chittagong Medical College Hospital,Chittagong,0,0,0,0,0,0,0,0,0,0,0,0,,22.33306,91.83639,NULL,Southern Asia,Asia,5,4,Google Maps,NULL,BD
+73,Burkina Faso,NULL,Clinique Saint Marc,Ouagadougou,0,0,0,0,0,0,0,0,0,0,0,0,,12.36423,-1.53834,NULL,Western Africa,Africa,5,4,Google Maps,NULL,BF
+74,Kenya,2011,Coast Provincial General Hospital,Mombasa,0,1,0,0,0,0,0,0,0,0,0,0,,-4.0513,39.6693,201020112013,Eastern Africa,Africa,8,5,Google Earth,NULL,KE
+75,Côte d'Ivoire,NULL,Cocody University Hospital,Cocody,0,0,0,0,0,0,0,0,0,0,0,0,,5.34889,-4.01167,NULL,Western Africa,Africa,5,4,Google Maps,NULL,CI
+76,Tanzania,2011,Comprehensive Community Based Rehabilitation in Tanzania (CCBRT),Dar es Salaam,0,1,0,0,0,0,0,0,0,1,0,1,"Kupona Foundation, European Union, Vodafone Foundation",-6.7677,39.2707,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,NULL,TZ
+78,Bangladesh,2011,HOPE Hospital for Women and Children ,Cox's Bazar,1,0,0,0,0,0,0,0,0,0,0,0,,21.44078,91.97679,201120122013,Southern Asia,Asia,8,5,Google Maps,1091,BD
+79,Afghanistan,2011,CURE International Hospital,Kabul,1,0,0,0,0,0,0,0,0,0,0,1,"Women's Hope International, CURE International",34.4704,69.1148,2010201120122010,Southern Asia,Asia,8,5,Google Earth,NULL,AF
+82,Niger,NULL,Danja Fistula Center,Danja,0,0,0,0,0,0,0,0,0,0,0,0,,13.3955,7.1916,NULL,Western Africa,Africa,5,4,Google Earth,54223,NE
+83,Bangladesh,NULL,Dhaka Medical College Hospital,Dhaka,0,0,0,0,0,0,0,0,0,0,0,0,,23.7252,90.3975,NULL,Southern Asia,Asia,9,5,Google Earth,NULL,BD
+84,Pakistan,2010,District Headquater Hospital (DHQ) Hospital ,Faisalabad,0,0,0,0,0,0,0,0,0,0,0,0,,31.42111,73.09457,2010,Southern Asia,Asia,8,8,Google Earth,NULL,PK
+87,Tanzania,2011,Dodoma Regional Referral Hospital,Dodoma,0,0,0,1,0,0,0,0,0,0,0,0,,-6.1821,35.7444,201120122013,Eastern Africa,Africa,7,5,Google Earth,NULL,TZ
+88,Somaliland,2011,Edna Adan University Hospital,Hargeisa,1,0,0,0,0,0,0,0,0,0,0,1,Ethiopia Aid,9.57367,44.08264,2010201120122010,Eastern Africa,Africa,5,4,Google Earth,40,SO
+89,Ghana,NULL,Effia Nkwanta Hospital,Takoradi,0,0,0,0,0,0,0,0,0,0,0,0,,4.9239,-1.7446,NULL,Western Africa,Africa,8,5,Google Earth,NULL,GH
+90,Sudan,2011,El Fashir Fistula Center - Maternity Hospital,Elfasher,0,1,0,0,0,0,0,0,0,0,0,0,,13.6284,25.3299,20102011,Northern Africa,Africa,8,5,Google Earth,NULL,SD
+91,Sudan,NULL,Elgenina Fistula Center,El Geneina,0,0,0,0,0,0,0,0,0,0,0,0,,13.4445,22.4512,NULL,Northern Africa,Africa,7,5,Google Earth,NULL,SD
+92,Nigeria,2011,Evangel VVF Center,"Jos, Plateau State",1,0,0,0,0,0,0,0,0,1,0,1,"African Mission Healthcare Foundation, Society for International Mission",9.9513,8.8789,201120122013,Western Africa,Africa,5,4,Google Maps,57914,NG
+93,Benin,2011,Evangelical Hospital of Bembéréké,Bembéréké,0,1,0,0,0,0,0,0,0,0,0,0,,10.21763,2.66762,201120122013,Western Africa,Africa,5,4,Google Earth,NULL,BJ
+94,Angola,2011,Evangelical Medical Center of Lubango,Lubango,1,0,0,0,0,0,0,0,0,0,0,0,,-14.91667,13.5,20112013,Middle Africa,Africa,5,4,Google Earth,56675,AO
+96,Nigeria,2011,"Family Life Centre, VVF Hospital","Uyo, Akwa Ibom State ",0,0,0,0,0,0,0,0,0,0,0,1,"Small World, Lagos accuill",5.05196,7.93385,2010201120122010,Western Africa,Africa,5,4,Google Earth,NULL,NG
+97,Nigeria,2011,Faridat Yakubu Hospital,"Gusau, Zamfara State ",0,0,0,0,0,0,0,0,0,0,0,0,,12.16278,6.66135,20102011,Western Africa,Africa,5,4,Google Earth,NULL,NG
+98,Nigeria,2010,Federal Medical Center,"Nguru, Yobe State",0,0,0,0,0,0,0,0,0,0,0,0,,12.8731,10.4567,20102011,Western Africa,Africa,8,5,Google Earth,NULL,NG
+99,Uganda ,2013,Fort Portal Regional Referral Hospital,Fort Portal ,0,1,0,0,0,0,0,0,0,0,0,0,,0.65868,30.28054,201020122013,Eastern Africa,Africa,5,5,Google Earth,NULL,UG
+100,Mauritania,NULL,Friendship Hospital of Nouakchott,Nouakchott,0,0,0,0,0,0,0,0,0,0,0,0,,18.10033,-15.94975,NULL,Western Africa,Africa,5,4,Google Earth,NULL,MR
+101,Liberia,NULL,G. W. Harley Hospital,Sanniquellie,0,0,0,0,0,0,0,0,0,0,0,0,,7.357,-8.7137,NULL,Western Africa,Africa,8,5,Google Earth,NULL,LR
+102,Somalia,2011,Galkayo Medical Center,Galkayo,0,1,0,0,0,0,0,0,0,0,0,0,,6.76963,47.42823,2010201120122010,Eastern Africa,Africa,8,7,Google Earth,60291,SO
+103,Liberia,2013,Ganta United Methodist Hospital,Ganta City,0,0,0,0,0,0,0,0,0,0,0,0,,7.2365,-8.97,2010201120122010,Western Africa,Africa,8,5,Google Earth,NULL,LR
+104,Kenya,NULL,Garissa Hospital,Garissa,0,0,0,0,0,0,0,0,0,0,0,0,,-0.4488,39.6527,NULL,Eastern Africa,Africa,8,5,Google Earth,NULL,KE
+105,Tanzania,NULL,Geita Hospital,Geita ,0,0,0,0,0,0,0,0,0,0,0,0,,-2.8734,32.2314,NULL,Eastern Africa,Africa,6,2,Google Earth,NULL,TZ
+106,Mozambique,NULL,General Hospital Mavalane,Mavalene,0,0,0,0,0,0,0,0,0,0,0,0,,-25.9325,32.5849,NULL,Eastern Africa,Africa,7,5,Google Earth,NULL,MZ
+107,Nigeria,2011,General Hospital Ningi,"Bauchi, Bauchi State",0,0,1,0,0,0,0,0,0,0,0,0,,10.31344,9.84327,201120122013,Western Africa,Africa,5,5,Google Earth,NULL,NG
+108,Democratic Republic of the Congo,NULL,General Hospital of Goma,Goma,0,0,0,0,0,0,0,0,0,0,0,0,,-1.6789,29.2243,NULL,Middle Africa,Africa,9,5,Google Maps,NULL,CD
+109,Senegal,2011,"General Hospital of Grand Yoff in Dakar, Institute of Education and Research in Urology and Family Health",Dakar,1,1,0,0,0,0,0,0,0,0,0,1,Innerwheel (Rotary),14.73376,-17.44942,201020112013,Western Africa,Africa,8,8,Google Earth,57571,SN
+110,Democratic Republic of the Congo,NULL,General Provincial Hospital of Kinshasa,Kinshasa,0,0,0,0,0,0,0,0,0,0,0,0,,-4.3089,15.3061,NULL,Middle Africa,Africa,8,5,Google Earth,NULL,CD
+111,Democratic Republic of the Congo,2011,GESOM Hospital,Goma,0,0,0,0,0,0,0,0,0,0,0,1,WorldVenture,-6.4,19.2333,2011,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+112,Ethiopia,2010,Gonder University Hospital,Gonder,0,0,0,0,0,0,0,0,0,0,0,0,,12.6164,37.4519,2010,Eastern Africa,Africa,8,5,Google Earth,NULL,ET
+113,Swaziland,NULL,Good Shepard Hospital,Siteki,0,0,0,0,0,0,0,0,0,0,0,0,,-26.4694,31.9608,NULL,Southern Africa,Africa,8,5,Google Earth,NULL,SZ
+114,Democratic Republic of the Congo,2010,Good Shepherd Hospital of Tshikaji,Kananga,0,0,0,0,0,0,0,0,0,0,0,0,,-5.8941,22.4046,2010,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+115,Uganda ,2013,Gulu Regional Referral Hospital,Gulu,0,0,0,0,0,0,0,0,0,0,0,0,,2.7774,32.2984,2013,Eastern Africa,Africa,9,8,Google Maps,NULL,UG
+116,Mozambique,2011,Gurúè District Hospital,Gurúè,0,0,0,0,0,0,0,0,0,0,0,0,,-15.46667,36.98333,20102011,Eastern Africa,Africa,5,4,Google Earth,NULL,MZ
+117,Kenya,2011,Gynocare Fistula Center,Eldoret,1,1,0,0,0,0,1,1,1,0,0,0,,0.5153,35.2791,201120122013,Eastern Africa,Africa,8,5,Google Earth,51653,KE
+118,Nigeria,2010,Hadejia City Clinic,"Hadejia, Jigawa State",0,0,0,0,0,0,0,0,0,0,0,0,,12.4498,10.0444,2010,Western Africa,Africa,5,4,Google Earth,NULL,NG
+119,Ethiopia,2013,Hamlin Fistula Bahir Dar,Bahir Dar,0,0,0,0,0,0,0,0,0,0,0,0,,11.6,37.38333,2010201120122010,Eastern Africa,Africa,5,4,Google Earth,NULL,ET
+120,Ethiopia,2013,Addis Ababa Fistula Hospital,Addis Ababa,0,0,0,0,0,0,0,0,0,0,0,0,,9.0067,38.7152,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,1264,ET
+121,Ethiopia,2013,Harar Hamlin Fistula,Harar,0,0,0,0,0,0,0,0,0,0,0,0,,9.30465,42.13264,2010201120122010,Eastern Africa,Africa,5,5,Google Earth,NULL,ET
+123,Democratic Republic of the Congo,2011,HEAL Africa,Goma,1,0,1,0,0,0,0,0,0,1,0,1,"HEAL Canada, WorldShare Australia, AusHeal, Ambassade des Pays-Bas",-1.689,29.2356,2010201120122010,Middle Africa,Africa,9,5,Google Maps,6778,CD
+125,Uganda ,2013,Hoima Regional Referral Hospital,Hoima ,0,0,1,0,0,0,0,0,0,0,0,0,,1.4284,31.3541,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,56903,UG
+126,Central African Republic,2011,The Friendship Hospital ,Bangui,0,1,0,0,0,0,0,0,0,0,0,0,,4.36901,18.55145,201120122013,Middle Africa,Africa,5,4,Google Earth,NULL,CF
+127,Timor-Leste,2011,Hospital National Guido Valadares,Dili,0,1,0,0,0,0,0,0,0,0,0,0,,-8.5575,125.5938,20102011,South-Eastern Asia,Asia,8,5,Google Earth,NULL,TL
+128,Mali,2011,Hospital Nianankoro Fomba Segou,Ségou,0,1,0,0,0,0,0,0,0,0,0,1,International Association for Maternal and Neonatal Health (Mali),13.44138,-6.26564,20102011,Western Africa,Africa,5,4,Google Earth,NULL,ML
+129,Madagascar,2013,Hospital of Ampasimanjeva,Ampasimanjeva,0,1,0,0,0,0,0,0,0,0,0,1,mediplast ,-21.73333,48.03333,20122013,Eastern Africa,Africa,5,4,Google Earth,NULL,MG
+130,Burundi,2013,Hospital of Gitega Urumuri Center,Gitega,0,0,0,0,0,1,0,0,0,0,0,0,,-3.42966,29.92979,2010201120122010,Eastern Africa,Africa,5,4,Google Earth,NULL,BI
+131,Madagascar,2011,Good News Hospital (HVM),Mandritsara,0,0,0,0,0,0,0,0,0,0,0,1,Friends of Mandritsara Trust,-15.84332,48.82124,20102011,Eastern Africa,Africa,5,4,Google Earth,NULL,MG
+134,Tanzania,2011,Ilembula Lutheran Hospital,Ilembula,0,0,0,1,0,0,0,0,0,0,0,0,,-8.8996,34.5787,20102011,Eastern Africa,Africa,8,5,Google Earth,NULL,TZ
+135,Democratic Republic of the Congo,2011,Imagerie des Grands Lacs,Beni,0,0,1,0,0,0,0,0,0,0,0,0,,-1.66917,29.23428,2011,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+136,Tanzania,2011,Iringa Regional Hospital,Iringa,0,0,0,1,0,0,0,0,0,0,0,0,,-7.7829,35.7004,2011,Eastern Africa,Africa,8,5,Google Earth,NULL,TZ
+138,Djibouti,2013,Italian Hospital of Balbala,Djibouti ,0,0,0,0,0,0,0,0,0,0,0,0,,11.55034,43.11181,2010201120122010,Eastern Africa,Africa,8,8,Google Earth,NULL,DJ
+140,Nigeria,2011,Jahun VVF Center,"Jahun, Jigawa State",0,0,0,0,0,0,0,0,0,0,0,0,,12.07412,9.62791,20102011,Western Africa,Africa,5,4,Google Earth,NULL,NG
+141,Kenya,2011,Jamaa Mission Hospital,Nairobi,0,0,0,0,0,0,1,1,0,0,0,1,"Verona Fathers, Safaricom Foundation, Fraternidad sin Fonteras",-1.28171,36.87318,2010201120122010,Eastern Africa,Africa,8,8,Google Earth,7583,KE
+142,Ethiopia,2011,Jimma University Specialized Hospital,Jimma Town,0,1,0,0,1,0,0,0,0,0,0,0,,7.6831,36.8513,201120122013,Eastern Africa,Africa,9,5,Google Earth,NULL,ET
+143,Uganda,2011,Jinja Regional Referral Hospital,Jinja ,0,0,0,0,0,0,0,0,0,0,0,0,,0.4302,33.2044,201120122013,Eastern Africa,Africa,9,7,Google Maps,NULL,UG
+144,Liberia,2010,John F. Kennedy Hospital,Monrovia,0,0,0,0,0,0,0,0,0,0,0,0,,6.2871,-10.7739,2010,Western Africa,Africa,9,5,Google Earth,902,LR
+145,Guinea,2013,John Paul II Social Medical Center,Conakry,0,0,1,0,0,0,0,0,0,0,1,0,,9.50917,-13.71222,201120122013,Western Africa,Africa,5,4,Google Earth,NULL,GN
+146,Uganda ,2013,Kabale Regional Referral Hospital,Kabale,0,1,0,0,0,0,0,0,0,0,0,0,,-1.2507,29.9895,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,NULL,UG
+147,Kenya,2010,Kabarnet District Hospital,Kabarnet,0,0,0,0,0,0,0,0,0,0,0,0,,0.485,35.7417,2010,Eastern Africa,Africa,8,5,Google Earth,NULL,KE
+148,Central African Republic,NULL,Kaga-Bandoro Hospital,Kaga-Bandoro,0,0,0,0,0,0,0,0,0,0,0,0,,6.98961,19.18744,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,CF
+149,Uganda,2010,Kagadi Hospital,Kibaale,0,0,0,0,0,0,0,0,0,0,0,0,,0.9421,30.8089,2010,Eastern Africa,Africa,8,5,Google Earth,NULL,UG
+150,Uganda ,2013,Kagando Hospital,"Kagando, Kasese",0,0,1,0,0,0,0,0,0,0,0,0,,0.0634,29.8974,2010201120122010,Eastern Africa,Africa,7,5,Google Earth,NULL,UG
+151,Tanzania,NULL,Kahama District Hospital,Kahama,0,0,0,0,0,0,0,0,0,0,0,0,,-3.8265,32.6037,NULL,Eastern Africa,Africa,7,5,Google Earth,NULL,TZ
+152,Kenya,2013,Kakamega Provincial General Hospital,Kakamega,0,0,0,0,0,0,0,0,0,0,0,0,,0.2736,34.7595,201020122013,Eastern Africa,Africa,9,5,Google Earth,NULL,KE
+154,Democratic Republic of the Congo,2010,Kalonge Reproductive Health Complex,Kalonge,0,0,0,0,0,0,0,0,0,0,0,0,,-2.33056,28.74667,2010,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+156,Democratic Republic of the Congo,NULL,Kampemba General Regional,Kampemba,0,0,0,0,0,0,0,0,0,0,0,0,,-8.1503,30.4665,NULL,Middle Africa,Africa,4,1,Google Earth,NULL,CD
+157,Democratic Republic of the Congo,NULL,Kampene General Hospital,Kampene,0,0,0,0,0,0,0,0,0,0,0,0,,-3.6,26.66667,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+158,Uganda,2011,Kamuli Mission Hospital,Kamuli,0,0,0,0,0,0,0,0,0,0,0,1,Birth Injury Fund,0.9317,33.1285,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,NULL,UG
+160,Rwanda,2011,Rwanda Military Hospital,Kigali,0,0,1,0,0,0,0,0,0,0,0,0,,-1.9761,30.1647,201120122013,Eastern Africa,Africa,5,4,Google Earth,NULL,RW
+161,Kenya,2011,Kapenguria District Hospital,Kapenguria,0,0,0,1,0,0,0,0,0,0,0,0,,1.2403,35.1187,20102011,Eastern Africa,Africa,8,5,Google Earth,NULL,KE
+162,Kenya,2010,Karatina Nursing Home,Karatina,0,0,0,0,0,0,0,0,0,0,0,0,,-0.4817,37.1251,2010,Eastern Africa,Africa,5,4,Google Earth,NULL,KE
+163,Democratic Republic of the Congo,NULL,Kashobwe General Hospital,Kashobwe,0,0,0,0,0,0,0,0,0,0,0,0,,-9.6772,28.6175,NULL,Middle Africa,Africa,5,3,Google Maps,NULL,CD
+164,Sudan,NULL,Kassala Saudi Teaching Hospital,Kassala,0,0,0,0,0,0,0,0,0,0,0,0,,15.4568,36.3961,NULL,Northern Africa,Africa,8,5,Google Earth,NULL,SD
+168,Democratic Republic of the Congo,2011,Kaziba General Hospital,Bukavu,0,1,1,0,0,0,0,0,0,0,0,0,,-2.51103,28.85061,20102011,Middle Africa,Africa,5,1,Google Earth,NULL,CD
+169,Kenya,2013,Kenyatta National Referral and Teaching Hospital,Nairobi,0,0,0,0,0,0,0,0,0,0,0,0,,-1.3014,36.8079,201020122013,Eastern Africa,Africa,8,5,Google Earth,NULL,KE
+170,Eritrea,NULL,Keren Regional Referral Hospital,Keren,0,0,0,0,0,0,0,0,0,0,0,0,,15.77778,38.45806,NULL,Eastern Africa,Africa,5,4,Google Earth,NULL,ER
+171,Sudan,2013,"Dr Abbo's National Fistula & Urogyanecology Center, Khartoum Teaching Hospital",Khartoum,0,0,0,0,0,0,0,0,0,0,0,0,,15.5963,32.5337,2010201120122010,Northern Africa,Africa,8,5,Google Earth,NULL,SD
+172,Bangladesh,NULL,Khulna Medical College Hospital,Khulna,0,0,0,0,0,0,0,0,0,0,0,0,,22.8291,89.5371,NULL,Southern Asia,Asia,8,5,Google Earth,NULL,BD
+173,Rwanda,2011,Kibagabaga Hospital,Kigali,0,0,0,0,0,0,0,0,0,0,0,1,International Organization for Women and Development,-1.9379,30.1071,20102011,Eastern Africa,Africa,8,5,Google Earth,NULL,RW
+174,Uganda,2010,Kiboga Hospital,Kiboga,0,0,0,0,0,0,0,0,0,0,0,0,,0.91101,31.77658,2010,Eastern Africa,Africa,9,9,Google Earth,NULL,UG
+176,Tanzania,NULL,Kibondo District Hospital,Kibondo,0,0,0,0,0,0,0,0,0,0,0,0,,-3.5934,30.712,NULL,Eastern Africa,Africa,8,5,Google Earth,NULL,TZ
+177,Tanzania,2011,Kigoma Regional Hospital,Kigoma,0,0,0,1,0,0,0,0,0,0,0,0,,-4.895,29.6535,2011,Eastern Africa,Africa,8,5,Google Earth,NULL,TZ
+178,Tanzania,2011,Kilimanjaro Christian Medical Center,Moshi Kilimanjaro,0,0,0,1,0,0,0,0,0,0,0,1,Comprehensive Community Based Rehabilitation in Tanzania (Kilimanjaro),-3.324,37.3285,2010201120122010,Eastern Africa,Africa,7,3,Google Earth,NULL,TZ
+179,Democratic Republic of the Congo,2011,Kindu General Reference Hospital,Kindu,0,1,0,0,0,0,0,0,0,0,0,0,,-2.95,25.95,201120122013,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+180,Kenya,2011,Kisii Hospital,Kisii,0,0,0,1,0,0,0,0,0,0,0,0,,-0.6708,34.7715,20102011,Eastern Africa,Africa,8,5,Google Earth,NULL,KE
+181,Uganda,2010,Kisoro Hospital,Kisoro,0,0,0,0,0,0,0,0,0,0,0,0,,-1.28387,29.68282,2010,Eastern Africa,Africa,9,9,Google Earth,NULL,UG
+183,Uganda,2011,St. Joseph's Hospital Kitovu,Masaka,0,0,1,0,0,0,0,0,0,0,0,0,,-0.3442,31.7573,2010201120122010,Eastern Africa,Africa,9,5,Google Earth,NULL,UG
+184,Uganda,2010,Kitwe Health Center IV,Ntungamo,0,0,0,0,0,0,0,0,0,0,0,0,,-0.87336,30.26643,2010,Eastern Africa,Africa,7,7,Google Earth,NULL,UG
+185,Nigeria,2011,Kofan Gayan Hospital,"Zaria, Kaduna State",0,0,0,0,0,0,0,0,0,0,0,0,,11.07903,7.71046,20102011,Western Africa,Africa,5,4,Google Earth,NULL,NG
+186,Pakistan,2011,Koohi Goth Hospital,Karachi,0,1,0,0,0,0,0,0,0,0,0,1,"Pakistan National Forum on Women's Health, ISOPF",24.90886,67.02484,2010201120122010,Southern Asia,Asia,5,4,Google Earth,56043,PK
+188,Ghana,2011,Komfo Anokye Teaching Hospital,Kumasi,0,0,0,0,0,0,0,0,0,0,0,0,,6.6966,-1.6296,2011,Western Africa,Africa,9,5,Google Earth,NULL,GH
+189,Côte d'Ivoire,2011,Korhogo Regional Hospital,Korhogo,0,1,0,0,0,0,0,0,0,0,0,1,"Maternal Health Task Force, KOICA, J&J",9.46343,-5.63444,2010201120122010,Western Africa,Africa,5,4,Google Earth,NULL,CI
+190,Ghana,NULL,Korle-Bu Teaching Hospital,Accra,0,0,0,0,0,0,0,0,0,0,0,0,,5.5374,-0.2274,NULL,Western Africa,Africa,8,5,Google Earth,58782,GH
+191,Uganda,2010,Kumi Hospital,Kumi,0,0,0,0,0,0,0,0,0,0,0,0,,1.5273,33.9759,2010,Eastern Africa,Africa,9,5,Google Earth,NULL,UG
+192,Bangladesh,2011,Kumudini Women's Medical College Hospital,"Mirzapur, Tangail",0,0,1,0,0,0,0,0,0,0,0,0,,24.09854,90.0928,201120122013,Southern Asia,Asia,8,8,Google Earth,NULL,BD
+193,Pakistan,2011,Lady Reading Hospital,Peshawar,0,1,0,0,0,0,0,0,0,0,0,1,Pakistan National Forum on Women's Health,34.011,71.5683,2010201120122010,Southern Asia,Asia,9,5,Google Earth,58460,PK
+194,Pakistan,2011,Lady Wellingdon Hospital,Lahore,0,1,0,0,0,0,0,0,0,0,0,0,,31.58822,74.3078,2010201120122010,Southern Asia,Asia,8,8,Google Earth,NULL,PK
+195,Bangladesh,2011,LAMB Hospital,Parbatipur,0,0,1,0,0,0,0,0,0,0,0,1,"Women's Health International, LAMb International Fund, GETCO Telecommunications Ltd.",25.6616,88.8841,2010201120122010,Southern Asia,Asia,8,5,Google Earth,NULL,BD
+196,Nigeria,2011,Laure VVF Center,"Kano, Kano State",0,1,1,0,0,0,0,0,0,0,0,1,Women Doctors Association Kano ,12.00012,8.51672,20102011,Western Africa,Africa,5,4,Google Earth,NULL,NG
+197,Chad,2011,National Center for Reproductive Health and Fistula at N'Djamena ,N'Djamena,0,1,0,0,0,1,0,0,0,0,0,1,Doctors of the World,12.1186,15.0449,2011,Middle Africa,Africa,5,4,Google Maps,57429,TD
+198,Democratic Republic of the Congo,2011,Lemera Hospital,Lemera,0,0,0,0,0,0,0,0,0,0,0,0,,-3.0316,28.99361,20102011,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+199,Pakistan,2011,Liaquat University (Civil) Hospital,Jamshoro,0,1,0,0,0,0,0,0,0,0,0,0,,25.4,68.3674,2010201120122010,Southern Asia,Asia,8,5,Google Earth,NULL,PK
+200,Liberia,2011,Liberia Government Hospital,Tubmanburg,0,1,0,0,0,0,0,0,0,0,0,1,"Zonta International, J&J",6.87083,-10.81722,2011,Western Africa,Africa,5,4,Google Earth,NULL,LR
+202,Tanzania,2010,Ligula Regional Hospital,Mtwara,0,0,0,0,0,0,0,0,0,0,0,0,,-10.2826,40.1723,2010,Eastern Africa,Africa,9,5,Google Earth,NULL,TZ
+203,Uganda ,2013,Lira Regional referral Hospital,Lira,0,0,0,0,0,0,0,0,0,0,0,0,,2.25179,32.90176,201120122013,Eastern Africa,Africa,9,9,Google Earth,NULL,UG
+205,Democratic Republic of the Congo,2011,Living God Clinic,Butembo,0,0,0,0,0,0,0,0,0,0,0,0,,0.1235,29.3002,2011,Middle Africa,Africa,5,2,Google Earth,NULL,CD
+206,Democratic Republic of the Congo,2011,Lubutu Hospital,Lubutu,0,0,0,0,0,1,0,0,0,0,0,0,,-0.7285,26.5759,2011,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+209,Madagascar,2013,Lutheran Hospital SALFA Ejeda,"Ejeda, Toliara",0,1,0,0,0,0,0,0,0,0,0,0,,-24.35,44.51667,2013,Eastern Africa,Africa,5,4,Google Earth,NULL,MG
+210,Madagascar,2013,Lutheran Hospital SALFA Antanimalandy,Mahajanga,0,0,0,0,0,0,0,0,0,0,0,0,,-16.4677,46.58203,201120122013,Eastern Africa,Africa,5,4,Google Earth,NULL,MG
+211,Madagascar,2013,Lutheran Hospital SALFA Manambaro,Fort-Dauphin,0,1,0,0,0,0,0,0,0,0,0,0,,-25.0318,46.81686,20102013,Eastern Africa,Africa,5,4,Google Earth,NULL,MG
+212,Democratic Republic of the Congo,2011,Luvungi Hospital,Luvungi,0,0,0,0,0,0,0,0,0,0,0,0,,-1.5474,28.5142,20102011,Middle Africa,Africa,4,1,Google Earth + http://www.aljazeera.com/news/africa/2010/08/20108252253185894.html,NULL,CD
+213,Kenya,2011,Machakos General Hospital,Machakos,0,0,0,0,0,0,0,0,0,0,0,1,UNDP,-1.5192,37.2706,20102011,Eastern Africa,Africa,8,5,Google Earth,NULL,KE
+216,Laos,2011,Mahosot Hospital,Vientiane,0,0,0,0,0,0,0,0,0,0,0,0,,17.9599,102.6127,20102011,South-Eastern Asia,Asia,8,5,Google Earth,NULL,LA
+217,Afghanistan,NULL,Malalai Maternity Hospital,Kabul,0,0,0,0,0,0,0,0,0,0,0,0,,34.5306,69.1606,NULL,Southern Asia,Asia,8,5,Google Earth,NULL,AF
+218,Democratic Republic of the Congo,NULL,Malemba-Nkulu General Hospital,Malemba-Nkulu,0,0,0,0,0,0,0,0,0,0,0,0,,-8.03333,26.8,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+219,Côte d'Ivoire,2011,Man Regional Hospital,Man,0,1,0,0,0,0,0,0,0,0,0,0,,7.41251,-7.55383,20102011,Western Africa,Africa,5,4,Google Earth,NULL,CI
+220,Gambia,2010,Mandinaba Fistula Treatment and Rehabilitation Center,Banjul,0,0,0,0,0,0,0,0,0,0,0,0,,13.45324,-16.57751,2010,Western Africa,Africa,5,4,Google Earth,NULL,GM
+221,Malawi,2013,Mangochi District Hospital,Mangochi,0,1,0,0,0,0,0,0,0,0,0,0,,-14.47757,35.26474,2010201120122010,Eastern Africa,Africa,5,5,Google Earth,NULL,MW
+222,Ghana,NULL,Mankessim Hospital,Mankessim,0,0,0,0,0,0,0,0,0,0,0,0,,5.2712,-1.0152,NULL,Western Africa,Africa,5,4,Google Earth,NULL,GH
+223,Guinea Bissau,NULL,Mansoa Hospital,Mansoa,0,0,0,0,0,0,0,0,0,0,0,0,,12.0774,-15.3211,NULL,Western Africa,Africa,6,5,Google Earth,NULL,GW
+224,Mozambique,2011,Maputo Central Hospital,Maputo,0,1,0,0,0,0,0,0,0,0,0,0,,-25.9705,32.5877,201120122013,Eastern Africa,Africa,8,5,Google Earth,NULL,MZ
+225,South Sudan,NULL,Mary Immaculate Hospital,Mapourdit,0,0,0,0,0,0,0,0,0,0,0,0,,6.50683,29.77316,NULL,Eastern Africa,Africa,3,1,Google Earth,NULL,SS
+226,Nigeria,2011,Maryam Abacha Women and Children’s Hospital,"Sokoto, Sokoto State",0,1,1,0,0,0,0,0,0,0,0,0,,13.06092,5.23902,20102011,Western Africa,Africa,5,4,Google Earth,NULL,NG
+227,Uganda ,2013,Masaka Regional Referral Hospital,Masaka,0,1,0,0,0,0,0,0,0,0,0,0,,-0.3291,31.7349,201120122013,Eastern Africa,Africa,9,8,Google Maps,NULL,UG
+228,Democratic Republic of the Congo,NULL,Massisi General Hospital,Massisi,0,0,0,0,0,0,0,0,0,0,0,0,,-1.3963,28.8159,NULL,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+229,Kenya,2013,Matata Nursing Hospital,Oyugis,0,0,0,0,0,0,0,0,0,0,0,0,,-0.5049,34.7377,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,1059,KE
+230,Democratic Republic of the Congo,2013,Maternite Sans Risque de Kindu,Kindu,0,0,0,0,0,0,0,0,0,0,0,0,,-2.95206,25.95129,2010201120122010,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+231,Djibouti,NULL,Maternity Center El Hanan,Djibouti ,0,0,0,0,0,0,0,0,0,0,0,0,,11.58813,43.145,NULL,Eastern Africa,Africa,5,4,Google Earth,NULL,DJ
+232,Niger,2010,Maternity Center of Tassigui,Tahoua,0,0,0,0,0,0,0,0,0,0,0,0,,14.8888,5.2692,2010,Western Africa,Africa,5,4,Google Earth,NULL,NE
+233,Niger,2011,Maternity Center of Zinder,Zinder,0,1,0,0,0,0,0,0,0,0,0,0,,13.80487,8.98837,20102011,Western Africa,Africa,5,4,Google Earth,NULL,NE
+234,Tanzania,2011,Matyazo Health Centre,Kigoma,0,0,0,0,0,0,0,0,0,0,0,1,Neukirchen Mission e.V. (Germany),-4.88333,29.63333,2011,Eastern Africa,Africa,5,4,Google Earth,NULL,TZ
+236,Swaziland,NULL,Mbabane Government Hospital,Mbabane,0,0,0,0,0,0,0,0,0,0,0,0,,-26.3314,31.1438,NULL,Southern Africa,Africa,8,5,Google Earth,NULL,SZ
+237,Central African Republic,NULL,Mbaiki Hospital,Mbaïki,0,0,0,0,0,0,0,0,0,0,0,0,,3.8748,17.9863,NULL,Middle Africa,Africa,7,5,Google Earth,NULL,CF
+238,Uganda,2011,Mbale Regional Referral Hospital,Mbale,0,1,0,0,0,0,0,0,0,0,0,0,,1.077,34.176,2010201120122010,Eastern Africa,Africa,9,9,Google Earth,58503,UG
+239,Democratic Republic of the Congo,NULL,Mbandaka General Hospital,Mbandaka,0,0,0,0,0,0,0,0,0,0,0,0,,0.0601,18.2655,NULL,Middle Africa,Africa,8,5,Google Earth,NULL,CD
+240,Uganda ,2013,Mbarara University Regional Referral and Teaching Hospital,Mbarara,0,1,0,0,0,0,0,0,0,0,0,0,,-0.6163,30.6583,201120122013,Eastern Africa,Africa,9,5,Google Earth,NULL,UG
+242,Tanzania,NULL,Mbeya Referral Hospital,Mbeya,0,0,0,0,0,0,0,0,0,0,0,0,,-8.88921,33.4389,NULL,Eastern Africa,Africa,9,8,Google Earth,NULL,TZ
+243,Tanzania,2011,Mbozi Mission Hospital,Mbozi,0,0,0,1,0,0,0,0,0,0,0,0,,-9.0334,32.9287,2011,Eastern Africa,Africa,9,5,Google Earth,NULL,TZ
+245,Chad,2011,MDM Chad Fistula Project - Kanem Regional Hospital,Mao,0,1,0,0,0,0,0,0,0,0,0,1,Doctors of the World,8.2501,16.6667,2011,Middle Africa,Africa,4,1,Google Earth,NULL,TD
+246,Bangladesh,2010,Medical College Hospital,Rangpur,0,0,0,0,0,0,0,0,0,0,0,0,,25.744,89.2226,2010,Southern Asia,Asia,6,5,Google Earth,NULL,BD
+247,Ethiopia,2013,Mekelle Hamlin Fistula Center,Mekelle,0,0,0,0,0,0,0,0,0,0,0,0,,13.49614,39.47353,2010201120122010,Eastern Africa,Africa,7,5,Google Earth,NULL,ET
+248,Eritrea,2013,Mendefera Regional Referral Hospital,Mendefera ,0,1,0,0,0,0,0,0,0,0,0,0,,14.88722,38.81528,201020112013,Eastern Africa,Africa,5,4,Google Earth,NULL,ER
+249,Togo,2010,Mercy Ships,Lomé,0,0,0,0,0,0,0,0,0,0,0,0,,6.13743,1.21243,2010,Western Africa,Africa,5,4,Google Earth,NULL,TG
+250,Ethiopia,2013,Mettu Hamlin Fistula Center,Mettu,0,0,0,0,0,0,0,0,0,0,0,0,,8.2974,35.5764,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,NULL,ET
+251,Nepal,2013,Mid Western Regional Hospital,Birendranagar,1,0,0,0,0,0,0,0,0,0,0,1,The Gay and Keith Talbot Trust,28.60201,81.60087,2010201120122010,Southern Asia,Asia,5,5,Google Earth,60532,NP
+252,Uganda,2010,Mityana Hospital,Mityana,0,0,0,0,0,0,0,0,0,0,0,0,,0.39701,32.04241,2010,Eastern Africa,Africa,9,9,Google Earth,NULL,UG
+254,Mozambique,2011,Mocuba District Hospital,Mocuba,0,0,0,0,0,0,0,0,0,0,0,0,,-16.85,36.98333,20102011,Eastern Africa,Africa,5,4,Google Earth,NULL,MZ
+255,Kenya,2011,MOI Teaching and Referral Hospital,Eldoret,0,1,0,0,0,0,0,1,0,0,0,0,,0.5115,35.2804,201120122013,Eastern Africa,Africa,9,5,Google Earth,NULL,KE
+256,Zambia,2013,Monze Mission Hospital,Monze,0,0,0,0,0,0,0,0,0,0,0,0,,-16.27928,27.48711,2010201120122010,Eastern Africa,Africa,5,4,Google Earth,56711,ZM
+257,Tanzania,2010,Morogoro Regional Hospital,Morogoro,0,0,0,0,0,0,0,0,0,0,0,0,,-6.8283,37.6693,2010,Eastern Africa,Africa,9,5,Google Earth,NULL,TZ
+258,Pakistan,2011,"Maternal & Child Health Center, PIMS",Islamabad,0,1,0,0,0,0,0,0,0,0,0,1,Pakistan National Forum on Women's Health,33.6986,73.0483,2010201120122010,Southern Asia,Asia,8,5,Google Earth,NULL,PK
+260,Tanzania,2013,Muhimbili National Hospital,Dar es Salaam,0,0,0,0,0,0,0,0,0,0,0,0,,-6.8041,39.2738,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,NULL,TZ
+261,Uganda,2011,Mulago National Referral and Teaching Hospital,Kampala,0,1,0,1,0,0,0,0,0,0,0,0,,0.3412,32.5769,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,58145,UG
+262,Malawi,2010,Mulanje Mission Hospital,Mulanje,0,0,0,0,0,0,0,0,0,0,0,0,,-16.0203,35.4652,20102011,Eastern Africa,Africa,8,3,Google Earth,NULL,MW
+263,Angola,2011,Municipal Hospital of Damba,"Damba, Uige Province",0,1,0,0,0,0,0,0,0,0,0,1,Doctors with Africa Cuamm,-6.69581,15.14062,2010201120122010,Middle Africa,Africa,5,4,Google Earth,NULL,AO
+265,Tanzania,NULL,Musoma Hospital,Musoma ,0,0,0,0,0,0,0,0,0,0,0,0,,-1.4906,33.8086,NULL,Eastern Africa,Africa,9,5,Google Earth,NULL,TZ
+266,Bangladesh,2011,Mutallib Community Hospital,Dhaka,0,0,0,0,0,0,0,0,0,0,0,1,"Dutch Bangla Bank, Rotary International",23.70993,90.40787,2010201120122010,Southern Asia,Asia,5,4,Google Maps,NULL,BD
+269,Malawi,NULL,Mwanza District Hospital,Mwanza,0,0,0,0,0,0,0,0,0,0,0,0,,-15.60659,34.52237,NULL,Eastern Africa,Africa,5,4,Google Earth,NULL,MW
+270,Bangladesh,NULL,Mymensingh Medical College Hospital,Mymensingh,0,0,0,0,0,0,0,0,0,0,0,0,,24.7431,90.4098,NULL,Southern Asia,Asia,8,5,Google Earth,NULL,BD
+271,Malawi,2011,Mzuzu Central Hospital,Mzuzu,0,0,0,0,0,0,0,0,0,0,0,0,,-11.4299,33.9963,2011,Eastern Africa,Africa,8,5,Google Earth,NULL,MW
+273,Tanzania,2010,Nansio Hospital,Mwanza,0,0,0,0,0,0,0,0,0,0,0,0,,-2.1047,33.0903,2010,Eastern Africa,Africa,6,5,Google Earth,NULL,TZ
+274,Somaliland,2013,National Borama Fistula Hospital,Borama,1,1,0,0,1,0,0,0,0,0,0,1,"ALLAALE Hospital, Borama community, World Vision",9.93774,43.18039,2010201120122010,Eastern Africa,Africa,5,4,Google Earth,51210,SO
+275,Niger,2013,National Center for Obstetric Fistula References,Niamey,0,1,1,0,1,0,1,0,0,0,0,1,"MATA FRANCE, ONG TURQUE, ONG SAOUDIENNE",13.5093,2.1127,201020112013,Western Africa,Africa,7,5,Google Earth,58015,NE
+276,Niger,2012,National Hospital of Lamorde,Niamey,0,1,1,0,1,0,0,0,0,0,0,1,"MATA FRANCE, ONG TURQUE,",13.5062,2.0829,201020122013,Western Africa,Africa,7,7,Google Earth,NULL,NE
+278,Nigeria,2011,National Obstetric Fistula Center,"Abakaliki, Ebonyi State",0,0,1,0,0,0,0,0,0,0,0,0,,6.33407,8.1007,2010201120122010,Western Africa,Africa,5,5,Google Earth,56796,NG
+279,Kenya,NULL,Nazareth Hospital,Kiambu,0,0,0,0,0,0,0,0,0,0,0,0,,-1.1352,36.726,NULL,Eastern Africa,Africa,8,5,Google Earth,NULL,KE
+281,Tanzania,2010,Ndanda Mission Hospital,Ndanda,0,0,0,0,0,0,0,0,0,0,0,0,,-10.49659,39.01726,2010,Eastern Africa,Africa,5,4,Google Earth,NULL,TZ
+284,Mauritania,NULL,Nema Central Hospital,Nema,0,0,0,0,0,0,0,0,0,0,0,0,,16.61662,-7.26093,NULL,Western Africa,Africa,5,4,Google Earth,NULL,MR
+285,Democratic Republic of the Congo,2011,Nganda Central Hospital,Kinshasa,0,1,0,0,0,0,0,0,0,0,0,0,,-4.32084,15.29866,2010201120122010,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+286,Democratic Republic of the Congo,NULL,Ngliema Clinic,Kinshasa,0,0,0,0,0,0,0,0,0,0,0,0,,-4.3147,15.271,NULL,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+287,Pakistan,2011,Nishtar Hospital,Multan,0,1,0,0,0,0,0,0,0,0,0,0,,30.20254,71.44426,2010201120122010,Southern Asia,Asia,9,8,Google Earth,NULL,PK
+288,Malawi,NULL,Nkhoma Mission Hospital,Lilongwe,0,0,0,0,0,0,0,0,0,0,0,0,,-14.04424,34.10381,NULL,Eastern Africa,Africa,8,8,Google Earth,NULL,MW
+289,Tanzania,2011,Nkinga Referral Hospital,Nkinga Tabora,0,0,0,1,0,0,0,0,0,0,0,0,,-4.4273,33.4386,2010201120122010,Eastern Africa,Africa,6,5,Google Earth,NULL,TZ
+291,Kenya,2013,Nyabondo Mission Hospital,Kisumu,0,0,0,0,0,0,0,0,0,0,0,0,,-0.08614,34.72889,201120122013,Eastern Africa,Africa,5,5,Google Earth,NULL,KE
+292,Kenya,2011,Nyahururu Hospital,Nyahururu,0,0,0,0,0,0,0,0,0,0,0,0,,0.0379,36.3617,2011,Eastern Africa,Africa,8,5,Google Earth,NULL,KE
+294,Tanzania,2010,Nyangao Mission Hospital,Lindi,0,0,0,0,0,0,0,0,0,0,0,0,,-10.00233,39.70854,2010,Eastern Africa,Africa,5,4,Google Earth,NULL,TZ
+295,Kenya,2011,Jaramogi Oginga Odinga Referral & Teaching Hospital (PGH),Kisumu,1,0,0,1,0,0,1,0,0,0,0,1,OGRA Foudnation,-0.0891,34.7711,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,51306,KE
+296,Kenya,2010,Nyeri Provincial General Hospital,Nyeri,0,0,0,0,0,0,0,0,0,0,0,0,,-0.4263,36.9619,2010,Eastern Africa,Africa,8,5,Google Earth,NULL,KE
+299,Kenya,2011,Ortum Mission Hospital,Kapenguria,0,0,0,1,0,0,0,0,0,0,0,0,,1.25284,35.07843,20102011,Eastern Africa,Africa,5,4,Google Earth,NULL,KE
+300,Zambia,2011,Our Lady's Hospital,Chilonga,0,0,0,0,0,0,0,0,0,0,0,1,"Ziekenhuisgroep Twente (Netherlands), Friends of Chilonga, Poor People's Fund, Muli Shani Foundation, Catholic Organization for Relief and Development Aid",-12.02676,31.33966,2010201120122010,Eastern Africa,Africa,5,4,Google Earth,NULL,ZM
+301,Democratic Republic of the Congo,2013,Panzi Hospital,Bukavu,1,0,1,0,0,0,0,0,0,0,0,0,,-2.5435,28.8678,2010201120122010,Middle Africa,Africa,9,5,Google Earth,NULL,CD
+302,Nepal,2011,"Patan Hospital, Patan Academy of Health Sciences",Patan,0,1,0,0,0,0,0,0,0,0,0,0,,27.66847,85.32025,20102011,Southern Asia,Asia,9,8,Google Earth,NULL,NP
+303,Tanzania,2011,Peramiho Mission Hospital,Peramiho,0,0,0,1,0,0,0,0,1,0,0,0,,-10.68235,35.65119,2010201120122010,Eastern Africa,Africa,5,4,Google Earth,NULL,TZ
+304,Liberia,2011,Phebe Hospital and School of Nursing,Gbarnga City,0,1,0,0,0,0,0,0,0,0,0,0,,7.0042,-9.3967,2010201120122010,Western Africa,Africa,8,5,Google Earth,NULL,LR
+305,Togo,2010,Prefectural Hospital,Aného,0,0,0,0,0,0,0,0,0,0,0,0,,6.2293,1.57997,2010,Western Africa,Africa,5,3,Google Earth,NULL,TG
+306,Guinea,2011,Prefectural Hospital of Kissidougou,Kissidougou,0,0,0,0,0,0,0,0,0,0,0,0,,9.1848,-10.09987,2011,Western Africa,Africa,5,4,Google Earth,NULL,GN
+307,Togo,2013,Prefectural Hospital of Sotouboua,Sotouboua,0,0,0,0,0,0,0,0,0,0,0,0,,8.56744,0.98534,201020122013,Western Africa,Africa,5,3,Google Earth,NULL,TG
+308,Angola,NULL,Provincial Hospital of Lubango,Lubango,0,0,0,0,0,0,0,0,0,0,0,0,,-14.91667,13.5,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,AO
+309,Pakistan,2010,Qatar Hospital,Karachi,0,0,0,0,0,0,0,0,0,0,0,0,,24.94543,67.00946,2010,Southern Asia,Asia,9,9,Google Earth,NULL,PK
+310,Malawi,2013,Queen Elizabeth Central Hospital,Blantyre,0,0,0,0,0,0,0,0,0,0,0,0,,-15.803,35.0215,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,1208,MW
+311,Mozambique,2013,Quelimane Provincial Hospital,Quelimane,0,0,0,0,0,0,0,0,0,0,0,0,,-17.88227,36.88788,2010201120122010,Eastern Africa,Africa,8,8,Google Earth,NULL,MZ
+312,Bangladesh,NULL,Rajshahi Medical College Hospital,Rajshahi,0,0,0,0,0,0,0,0,0,0,0,0,,24.3736,88.5867,NULL,Southern Asia,Asia,8,5,Google Earth,NULL,BD
+313,Swaziland,NULL,Raleigh Fitkin Memorial Hospital,Manzini,0,0,0,0,0,0,0,0,0,0,0,0,,-26.49147,31.38725,NULL,Southern Africa,Africa,5,4,Google Earth,NULL,SZ
+314,Liberia,NULL,Redemption Hospital,Monrovia ,0,0,0,0,0,0,0,0,0,0,0,0,,6.3698,-10.7918,NULL,Western Africa,Africa,9,5,Google Earth,NULL,LR
+315,Burkina Faso,2011,Regional Hospital of Dori,Dori,0,1,0,0,0,0,0,0,0,0,0,0,,14.0354,-0.0345,2011,Western Africa,Africa,9,9,Google Maps,NULL,BF
+316,Mali,NULL,Regional Hospital of Gao,Gao,0,0,0,0,0,0,0,0,0,0,0,0,,16.27284,-0.04317,NULL,Western Africa,Africa,9,8,Google Earth,NULL,ML
+317,Cameroon,2011,Regional Hospital of Garoua,Garoua,0,0,0,0,0,0,0,0,0,0,0,0,,9.30036,13.40057,20102011,Middle Africa,Africa,5,4,Google Earth,NULL,CM
+318,Guinea,2011,Regional Hospital of Kankan,Kankan,0,1,0,0,0,0,0,0,0,0,0,1,"Maternal Health Task Force, Equilibres & Populations",10.3688,-9.3053,2010201120122010,Western Africa,Africa,7,5,Google Earth,NULL,GN
+319,Guinea,2013,Regional Hospital of Labé,Labé,0,0,1,0,0,0,0,0,0,0,0,0,,11.3182,-12.2851,201020122013,Western Africa,Africa,8,5,Google Earth,NULL,GN
+320,Cameroon,2013,Regional Hospital of Maroua,Maroua,0,0,0,0,0,0,0,0,0,0,0,0,,10.6022,14.3142,2010201120122010,Middle Africa,Africa,7,5,Google Earth,NULL,CM
+321,Senegal,2011,Regional Hospital of Tambacounda,Tambacounda,0,1,0,0,0,0,0,0,0,0,0,0,,13.76889,-13.66722,20102011,Western Africa,Africa,5,4,Google Earth,NULL,SN
+322,Central African Republic,2013,Regional University Hospital Bambari,Bambari,0,0,0,0,0,0,0,0,0,0,0,0,,5.76795,20.67565,2013,Middle Africa,Africa,5,4,Google Earth,NULL,CF
+323,Senegal,2013,Reproductive Health Division,Dakar,0,1,0,1,0,0,0,0,0,0,0,0,,14.75004,-17.33332,201020122013,Western Africa,Africa,5,4,Google Earth,NULL,SN
+324,Gambia,NULL,Royal Victoria Teaching Hospital,Banjul,0,0,0,0,0,0,0,0,0,0,0,0,,13.45741,-16.57751,NULL,Western Africa,Africa,8,5,Google Earth,NULL,GM
+325,Tanzania,NULL,Rubya DDH,Kagera,0,0,0,0,0,0,0,0,0,0,0,0,,-1.75119,31.61899,NULL,Eastern Africa,Africa,9,9,Google Earth,NULL,TZ
+327,Rwanda,NULL,Ruhengeri Hospital,Ruhengeri Musanze,0,0,0,0,0,0,0,0,0,0,0,0,,-1.5082,29.6386,NULL,Eastern Africa,Africa,8,5,Google Earth,NULL,RW
+329,Mozambique,NULL,"Rural Hospital, Songo",Songo,0,0,0,0,0,0,0,0,0,0,0,0,,-15.59583,32.76472,NULL,Eastern Africa,Africa,5,4,Google Earth,NULL,MZ
+330,Mozambique,2010,"Rural Hospital, Buzi",Buzi,0,0,0,0,0,0,0,0,0,0,0,0,,-20.0172,34.55654,2010,Eastern Africa,Africa,4,1,Google Earth,NULL,MZ
+331,Democratic Republic of the Congo,2013,Saint Francis Hospital,"Tshimbulu, Kassai Occidental",0,0,0,0,0,0,0,0,0,0,0,0,,-6.41644,22.8779,2010201120122010,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+332,Benin,2011,Saint John of God Hospital in Tanguiéta,Tanguiéta,0,1,0,0,0,1,0,0,0,0,1,1,"Sant Joan de Déu, University College London",10.62118,1.26651,201120122013,Western Africa,Africa,5,4,Google Maps,60586,BJ
+333,Democratic Republic of the Congo,2013,Saint Joseph Hospital,Kinshasa,0,0,1,0,0,0,0,0,0,0,0,1,Medics Without Vacation,-4.3484,15.2698,2010201120122010,Middle Africa,Africa,7,5,Google Earth,NULL,CD
+334,Côte d'Ivoire,NULL,San Pedro Regional Hospital,San Pedro,0,0,0,0,0,0,0,0,0,0,0,0,,4.7466,-6.6361,NULL,Western Africa,Africa,7,5,Google Earth,NULL,CI
+335,Pakistan,2011,Sandamen Hospital,Quetta,0,1,0,0,0,0,0,0,0,0,0,0,,30.199,67.00971,2010201120122010,Southern Asia,Asia,5,4,Google Earth,NULL,PK
+336,Democratic Republic of the Congo,NULL,Sandoa Regional Hospital,Sandoa,0,0,0,0,0,0,0,0,0,0,0,0,,-9.68333,22.86667,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+337,Tanzania,2011,Selian Lutheran Mission Hospital,Arusha,0,0,0,0,0,0,0,0,0,0,0,1,Vodacom Foundation,-3.3262,36.6506,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,9332,TZ
+339,Central African Republic,NULL,Sentra Health Hospital,Bambari,0,0,0,0,0,0,0,0,0,0,0,0,,5.7618,20.6714,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,CF
+340,Central African Republic,NULL,Sentra Health Hospital,Bangui,0,0,0,0,0,0,0,0,0,0,0,0,,4.3617,18.55598,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,CF
+341,Central African Republic,NULL,Sentra Health Hospital,Mbaïki,0,0,0,0,0,0,0,0,0,0,0,0,,3.87161,17.98514,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,CF
+342,Central African Republic,NULL,Sentra Health Hospital,Sibut,0,0,0,0,0,0,0,0,0,0,0,0,,5.73333,19.08333,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,CF
+343,Bangladesh,NULL,Shahid Ziaur Rahman Medical College Hospital,Bogra,0,0,0,0,0,0,0,0,0,0,0,0,,24.8271,89.3523,NULL,Southern Asia,Asia,8,5,Google Earth,NULL,BD
+344,Pakistan,2011,Shaikh Zaid Women's Hospital,Larkana,0,1,0,0,0,0,0,0,0,0,0,0,,27.562,68.2044,2010201120122010,Southern Asia,Asia,8,5,Google Earth,NULL,PK
+345,Democratic Republic of the Congo,NULL,Shamwana Hospital,Shamwana,0,0,0,0,0,0,0,0,0,0,0,0,,-6.0313,18.8177,NULL,Middle Africa,Africa,4,1,Google Maps,NULL,CD
+346,Bangladesh,NULL,Sher-e-Bangla Medical College Hospital,Dhaka,0,0,0,0,0,0,0,0,0,0,0,0,,23.7104,90.40744,NULL,Southern Asia,Asia,5,4,Google Maps,NULL,BD
+347,Tanzania,2011,Shinyanga Regional Hospital,Shinyanga,0,0,0,1,0,0,0,0,0,0,0,0,,-3.6638,33.421,2010201120122010,Eastern Africa,Africa,7,5,Google Earth,NULL,TZ
+349,Kenya,2013,Siaya County Referral Hospital,Siaya,0,0,0,0,0,0,0,0,0,0,0,0,,0.06368,34.28683,2010201120122010,Eastern Africa,Africa,8,8,Google Earth,NULL,KE
+350,Central African Republic,NULL,Sibut Hospital,Sibut,0,0,0,0,0,0,0,0,0,0,0,0,,5.71801,19.07389,NULL,Middle Africa,Africa,5,4,Google Earth,NULL,CF
+351,Tanzania,NULL,Singida Regional Hospital,Singida,0,0,0,0,0,0,0,0,0,0,0,0,,-4.81577,34.7472,NULL,Eastern Africa,Africa,9,9,Google Earth,NULL,TZ
+352,Bangladesh,2011,Sir Salimullah Medical College and Mitford Hospital,Dhaka,0,1,0,0,0,0,0,0,0,0,0,0,,23.7108,90.4012,2010201120122010,Southern Asia,Asia,8,5,Google Earth,NULL,BD
+353,Tanzania,2011,Sokoine Regional Hospital,Lindi,0,0,0,1,0,0,0,0,0,0,0,0,,-9.9828,39.7072,20102011,Eastern Africa,Africa,9,5,Google Earth,NULL,TZ
+354,Mali,2010,Sominé Dolo Hospital of Mopti,Mopti,0,0,0,0,0,0,0,0,0,0,0,0,,14.5012,-4.19608,2010,Western Africa,Africa,7,5,Google Earth,NULL,ML
+355,Tanzania,2013,Songea Regional Referral Hospital,Songea,0,0,0,1,0,0,0,0,0,0,0,0,,-10.68018,35.65201,2010201120122010,Eastern Africa,Africa,9,6,Google Earth,NULL,TZ
+356,Uganda,2011,Soroti Regional Referral Hospital,Soroti,0,1,0,0,0,0,0,0,0,0,0,1,Association for the Re-orientation and Rehabilitation of Teso Women for Development,1.71618,33.61317,2010201120122010,Eastern Africa,Africa,9,9,Google Earth,9045,UG
+357,Benin,NULL,Sounon Séro Hospital,Nikki,0,0,0,0,0,0,0,0,0,0,0,0,,9.933333,3.208333,NULL,Western Africa,Africa,5,4,Google Earth,NULL,BJ
+358,Tanzania,2011,St. Benedict's Regional Referral Hospital,Ndanda,0,0,0,1,0,0,0,0,0,0,0,0,,-10.49715,39.02707,2010201120122010,Eastern Africa,Africa,5,4,Google Earth,NULL,TZ
+359,Tanzania,NULL,St. Francis Hospital,Ifakara,0,0,0,0,0,0,0,0,0,0,0,0,,-8.1446,36.6818,NULL,Eastern Africa,Africa,7,5,Google Earth,NULL,TZ
+360,Zambia,2013,St. Francis Mission Hospital,Katete,1,0,0,0,0,0,0,0,0,0,0,0,,-14.0655,32.0147,201120122013,Eastern Africa,Africa,9,5,Google Earth,1303,ZM
+362,Zimbabwe,NULL,St. Luke's Mission Hospital,Bulawayo,0,0,0,0,0,0,0,0,0,0,0,0,,-20.17171,28.58115,NULL,Eastern Africa,Africa,5,4,Google Earth,NULL,ZW
+363,Uganda ,2013,St. Mary's Hospital Lacor,Gulu,0,0,0,0,0,0,0,0,0,0,0,0,,2.7679,32.2536,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,NULL,UG
+365,Tanzania,2011,Sumbawanga Regional Hospital,Sumbawanga,0,0,0,1,0,0,0,0,0,0,0,0,,-7.96404,31.61488,20102011,Eastern Africa,Africa,9,6,Google Earth,NULL,TZ
+367,Bangladesh,2013,Sylhet MAG Osmani Medical College Hospital,Sylhet,0,0,0,0,0,0,0,0,0,0,0,0,,24.9003,91.8531,201020122013,Southern Asia,Asia,8,5,Google Earth,NULL,BD
+368,Bangladesh,2011,Taqwa Specialized Hospital,Dhaka,0,0,0,0,0,0,0,0,0,0,0,0,,23.7468,90.3982,20102011,Southern Asia,Asia,5,5,Google Earth + http://www.bangladeshindex.com.bd/content/detail/76/101/1467,NULL,BD
+369,Ghana,2011,Tamale Fistula Centre,"Tamale, Northern Region",0,1,0,0,0,0,0,0,0,0,0,0,,9.39398,-0.82372,2010201120122010,Western Africa,Africa,8,7,Google Earth,NULL,GH
+370,Malawi,NULL,Thyolo District Hospital,Thyolo,0,0,0,0,0,0,0,0,0,0,0,0,,-16.07029,35.14714,NULL,Eastern Africa,Africa,8,8,Google Earth,NULL,MW
+372,Côte d'Ivoire,NULL,Treichville University Hospital,Treichville,0,0,0,0,0,0,0,0,0,0,0,0,,5.30333,-4.00917,NULL,Western Africa,Africa,5,4,Google Earth,NULL,CI
+374,Zimbabwe,2011,United Bulawayo Hospitals,Bulawayo,0,0,0,0,0,0,0,0,0,0,0,0,,-20.17171,28.58115,2011,Eastern Africa,Africa,5,4,Google Earth,NULL,ZW
+375,Cameroon,2011,University Teaching Hospital,Yaoundé,0,0,0,0,1,0,0,0,0,0,1,0,,3.86667,11.51667,2010201120122010,Middle Africa,Africa,5,4,Google Earth,NULL,CM
+376,Democratic Republic of the Congo,NULL,University Clinic Kinsangani,Kisangani,0,0,0,0,0,0,0,0,0,0,0,0,,0.5112,25.1672,NULL,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+377,Democratic Republic of the Congo,NULL,University Clinic Kinshasa,Kinshasa,0,0,0,0,0,0,0,0,0,0,0,0,,-4.320836,15.29866,NULL,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+378,Benin,2013,University Clinic of Urology and Andrology of CNHU-HKM,Cotonou,0,1,0,0,0,0,0,0,0,0,0,1,"ALDIPE-ONG, GRAEDHI-ONG",6.36375,2.42592,2010201120122010,Western Africa,Africa,5,4,Google Earth,52137,BJ
+379,Burundi,2013,University Hospital Center of Kamenge,Bujumbura,0,1,0,0,0,0,0,0,0,0,0,1,Médecins du desert,-3.3567,29.3853,2010201120122010,Eastern Africa,Africa,7,5,Google Earth,NULL,BI
+381,Zambia,2011,University Teaching Hospital Lusaka,Lusaka,0,0,0,0,0,0,0,0,0,0,0,0,,-15.4317,28.3147,2011,Eastern Africa,Africa,9,5,Google Earth,NULL,ZM
+382,Rwanda,2013,University Teaching Hospital of Kigali (UTHK),Kigali,0,0,1,0,0,0,0,0,0,0,0,0,,-1.94489,30.0634,2010201120122010,Eastern Africa,Africa,5,4,Google Earth,58424,RW
+383,Ghana,2010,"Upper East Regional Hospital, Bolgatanga",Bolgatanga,0,0,0,0,0,0,0,0,0,0,0,0,,10.8063,-0.8621,2010,Western Africa,Africa,7,5,Google Earth,NULL,GH
+384,Ghana,2011,Upper West Regional Hospital,Wa,0,1,0,0,0,0,0,0,0,0,0,0,,10.06069,-2.50192,2011,Western Africa,Africa,6,5,Google Earth,NULL,GH
+385,Mali,NULL,Urological Service of Point General Hospital,Bamako,0,0,0,0,0,0,0,0,0,0,0,0,,12.65,-8,NULL,Western Africa,Africa,5,4,Google Earth,NULL,ML
+389,Kenya,2013,Webuye District Hospital,Webuye,0,0,0,0,0,0,0,0,0,0,0,0,,0.6126,34.7647,20122013,Eastern Africa,Africa,9,7,Google Earth,NULL,KE
+390,Mauritania,NULL,Welcome Center for Hosting and Treatment,Nouakchott,0,0,0,0,0,0,0,0,0,0,0,0,,18.07482,-16.01112,NULL,Western Africa,Africa,7,5,Google Earth,NULL,MR
+391,Ghana,2011,Wenchi Methodist Hospital,Wenchi,0,0,0,0,0,0,0,0,0,0,0,0,,7.73916,-2.10456,20102011,Western Africa,Africa,5,4,Google Earth,NULL,GH
+392,Sierra Leone,NULL,West African Fistula Center,Bo,0,0,0,0,0,0,0,0,0,0,0,0,,7.95647,-11.74033,NULL,Western Africa,Africa,5,4,Google Earth,NULL,SL
+393,Mali,NULL,Women and Children Hospital,Koutiala,0,0,0,0,0,0,0,0,0,0,0,0,,12.39173,-5.46421,NULL,Western Africa,Africa,5,4,Google Earth,NULL,ML
+394,Laos,NULL,Xayaburi Provincial Hospital,Xayaboury,0,0,0,0,0,0,0,0,0,0,0,0,,19.2409,101.7132,NULL,South-Eastern Asia,Asia,7,5,Google Earth,NULL,LA
+395,Cameroon,2011,Yagoua Regional Hospital,Yagoua,0,0,0,0,0,0,0,0,0,0,0,0,,10.34447,15.23013,20102011,Middle Africa,Africa,5,4,Google Earth,NULL,CM
+396,Ethiopia,2013,Yirg Alem Hamlin Fistula Center,Yirg Alem,0,0,0,0,0,0,0,0,0,0,0,0,,6.7506,38.3944,2010201120122010,Eastern Africa,Africa,8,5,Google Earth,NULL,ET
+398,Sudan,NULL,Zalingi Hospital Fistula Center,Zalingei,0,0,0,0,0,0,0,0,0,0,0,0,,12.90013,23.47688,NULL,Northern Africa,Africa,5,4,Google Earth,NULL,SD
+399,Malawi,2011,Zomba Central Hospital,Zomba,0,1,0,0,0,0,0,0,0,0,0,0,,-15.39979,35.31366,2010201120122010,Eastern Africa,Africa,8,8,Google Earth,NULL,MW
+401,Uganda ,2013,Virika Mission Hospital,Fort Portal ,0,0,0,0,0,0,0,0,0,0,0,0,,0.6375,30.2686,201120122013,Eastern Africa,Africa,5,4,Google Maps,NULL,UG
+403,Democratic Republic of the Congo,2011,Chambucha Hospital,Chambucha,0,0,0,0,0,0,0,0,0,0,0,0,,-1.3073,28.0856,2011,Middle Africa,Africa,4,1,Google Maps,NULL,CD
+404,Pakistan,2011,Lady Atichison Hospital,Lahore,0,0,0,0,0,0,0,0,0,0,0,0,,31.5737,74.3152,2011,Southern Asia,Asia,8,8,Google Maps,NULL,PK
+405,Democratic Republic of the Congo,2011,Kitutu Hospital,Kitutu,0,0,0,0,0,0,0,0,0,0,0,0,,-6.4954,26.6025,2011,Middle Africa,Africa,4,1,Google Maps,NULL,CD
+406,Democratic Republic of the Congo,2011,Mbuji-Mayi Hospital,Mbuji-Mayi,0,0,0,0,0,0,0,0,0,0,0,0,,-6.1235,23.5896,2011,Middle Africa,Africa,5,3,Google Maps,NULL,CD
+407,Democratic Republic of the Congo,2011,Mweneditu Hospital,Mwenditu,0,0,0,0,0,0,0,0,0,0,0,0,,-6.9915,23.4496,2011,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+408,Democratic Republic of the Congo,2011,Kabinda Hospital,Kabinda,0,0,0,0,0,0,0,0,0,0,0,0,,-6.1293,24.4819,2011,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+409,Democratic Republic of the Congo,2011,Lusambo Hospital,Lusambo,0,0,0,0,0,0,0,0,0,0,0,0,,-4.9682,23.4408,2011,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+410,Democratic Republic of the Congo,2011,Ngandajika Hospital,Ngandajika,0,0,0,0,0,0,0,0,0,0,0,0,,-6.7413,23.9529,2011,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+411,Democratic Republic of the Congo,2011,Lubao Hospital,Lubao,0,0,0,0,0,0,0,0,0,0,0,0,,-5.3754,25.7461,2011,Middle Africa,Africa,5,4,Google Maps,NULL,CD
+412,Democratic Republic of the Congo,2011,Nundu Hospital,Nundu,0,0,0,0,0,0,0,0,0,0,0,0,,-3.8159,29.0856,2011,Middle Africa,Africa,4,2,Google Maps,NULL,CD
+413,Rwanda,2011,Kibogora Hospital ,Kirambo/Nyamasheke,0,1,1,0,0,0,0,0,0,0,0,1,WFP,-2.3256,29.1342,2011,Eastern Africa,Africa,7,6,Google Maps,NULL,RW
+414,Bangladesh,2011,Impact Masudul Haque Memorial Community Health Center,Chuadanga,0,0,0,0,0,0,0,0,0,0,0,1,UKIF,23.6384,88.83718,201120122013,Southern Asia,Asia,9,7,Google Maps,NULL,BD
+415,Zambia,NULL,Chipata General Hospital,Chipata,0,0,0,0,0,0,0,0,0,0,0,0,,-13.6419,32.6376,NULL,Eastern Africa,Africa,9,7,Google Earth,NULL,ZM
+416,Zambia,NULL,Mansa General Hospital,Mansa,0,0,0,0,0,0,0,0,0,0,0,0,,-11.2018,28.8905,NULL,Eastern Africa,Africa,5,3,Google Maps,NULL,ZM
+418,Nigeria,2011,Kwara State Specialist Hospital,"Ilorin, Kwara State ",0,0,1,0,0,0,0,0,0,0,0,0,,8.491,4.545,201120122013,Western Africa,Africa,5,5,Google Earth,NULL,NG
+419,Nigeria ,2013,Kazaure General Hospital,"Kazaure, Jigawa State",0,0,0,0,0,0,0,0,0,0,0,0,,12.6472,8.4048,20112013,Western Africa,Africa,9,6,Google Earth,NULL,NG
+420,India,NULL,Maharaja Agrasen Medical College (MAMC),Hisar,0,0,0,0,0,0,0,0,0,0,0,0,,29.3367,75.6223,NULL,Southern Asia,Asia,9,8,Google Maps,NULL,IN
+421,Laos,NULL,Children's Hospital,Vientiane,0,0,0,0,0,0,0,0,0,0,0,0,,18.0038,102.6269,NULL,South-Eastern Asia,Asia,9,8,Google Maps,NULL,LA
+422,Mozambique,2013,Lichinga Provincial Hospital,Lichinga,0,0,0,0,0,0,0,0,0,0,0,0,,-13.3004,35.2529,201120122013,Eastern Africa,Africa,5,4,Google Earth,NULL,MZ
+423,Democratic Republic of the Congo,2011,Rwankole Hospital,Bunia,0,1,0,0,0,0,0,0,0,0,0,1,"Prof.Dr Jacques Kalume, Dr Christine Dewind Maria",1.5587,30.248,2011,Middle Africa,Africa,5,4,Google Earth,NULL,CD
+424,Togo,2011,Karolyn Kempton Hospital,Tsiko,0,0,0,0,0,0,0,0,0,0,0,1,Association of Baptists for World Evangelism,7.1237,0.7,2011,Western Africa,Africa,8,6,Google Earth + http://www.maplandia.com,NULL,TG
+425,Pakistan,2013,"Foundation University Medical College, Fauji Foundation Hospital",Rawalpindi,0,0,0,0,0,0,0,0,0,0,0,1,Fauji Foundation Pakistan,33.55407,73.09556,201120122013,Southern Asia,Asia,9,9,Google Maps,NULL,PK
+426,Pakistan ,2013,Benazir Bhutto Hospital,Rawalpindi ,0,0,0,0,0,0,0,0,0,0,0,0,,33.6275,73.0716,201120122013,Southern Asia,Asia,9,9,Google Maps,NULL,PK
+427,Uganda ,2013,Moroto Regional Referral Hospital,Moroto,0,0,0,0,0,0,0,0,0,0,0,0,,2.5324,34.6611,20122013,Eastern Africa,Africa,9,6,Google Maps,NULL,UG
+428,Uganda ,2013,Mubende Regional Referral Hospital,Mubende,0,0,0,0,0,0,0,0,0,0,0,0,,0.5677,31.3927,20122013,Eastern Africa,Africa,8,6,Google Maps,NULL,UG
+429,Bangladesh,2013,MAMMS Institute of Fistula and Women's Health,Dhaka,0,0,0,0,0,0,0,0,0,0,0,0,,23.7231,90.4086,20122013,Southern Asia,Asia,5,3,Google Maps,60004,BD
+430,Pakistan,2013,Shalamar Hospital,Lahore,0,0,0,0,0,0,0,0,0,0,0,0,,31.5752,74.3801,20122013,Southern Asia,Asia,9,8,Google Maps,NULL,PK
+432,Madagascar,2013,Lutheran Hospital SALFA Vangaindrano,Vangaindrano,0,1,0,0,0,0,0,0,0,0,0,0,,-23.3516,47.5998,20122013,Eastern Africa,Africa,6,5,Google Maps,NULL,MG
+433,Madagascar,2013,Lutheran Hospital SALFA Vohemar,Vohemar,0,1,0,0,0,0,0,0,0,0,0,0,,-13.3604,50.0095,2013,Eastern Africa,Africa,5,3,Google Maps,NULL,MG
+434,Madagascar,2013,Lutheran Hospital SALFA Morondava,Morondava,0,1,0,0,0,0,0,0,0,0,0,0,,-20.2971,44.2942,2013,Eastern Africa,Africa,5,3,Google Maps,NULL,MG
+435,Pakistan,2013,Murshid Hospital,Karachi,0,0,0,0,0,0,0,0,0,0,0,0,,24.9265,66.9458,20122013,Southern Asia,Asia,9,8,Google Maps,152,PK
+436,Pakistan,2013,Central Park Hospital,Lahore,0,0,0,0,0,0,0,0,0,0,0,0,,31.3286,74.377,20122013,Southern Asia,Asia,9,8,Google Maps,NULL,PK
+437,Pakistan,2013,Isra Medical University Hospital,Jamshoro,0,0,0,0,0,0,0,0,0,0,0,0,,25.4361,68.3821,20122013,Southern Asia,Asia,8,8,Google Maps,NULL,PK
+439,Kenya,2013,Port Florence Community Hospital,Kisumu,1,0,0,0,0,0,1,0,0,0,0,0,,-0.1042,34.7525,20122013,Eastern Africa,Africa,9,7,Google Maps,NULL,KE
+441,Burkina Faso,2013,Paul VI Medical Center,Ouagadougou,0,1,0,0,0,0,0,0,0,0,0,0,,12.3992,-1.5574,20122013,Western Africa,Africa,9,8,Google Maps,NULL,BF
+442,Fiji,2013,Labasa Hospital,Labasa,0,0,0,0,0,0,0,0,0,0,0,0,,-16.432,179.3796,20122013,Melanesia,Oceania,9,8,Google Maps,NULL,FJ
+443,Democratic Republic of the Congo,2013,Hôpital St. Luc ,"Kisantu, Inkis, Province of Bas-Congo",0,0,0,0,0,0,0,0,0,0,0,0,,-5.1377,15.0915,20122013,Middle Africa,Africa,5,5,Google Maps,58564,CD
+444,Tanzania,2012,Kirando Health Center,Kirando,0,0,0,0,0,0,0,0,0,0,0,0,,-7.3701,30.6237,2012,Eastern Africa,Africa,6,5,Google Maps,NULL,TZ
+445,Haiti,2013,Hopital Universitaire Justinien,Cap-Haitien,0,0,0,0,0,0,0,0,0,0,0,0,,19.7625,-72.2059,20122013,Carribbean,Latin America & Caribbean,9,8,Google Maps,NULL,HT
+446,Cameroon,2013,Protestant Hospital of Ngaoundere,Ngaoundere,0,1,0,0,0,0,0,0,0,0,0,1,MTN,7.3097,13.596,20122013,Middle Africa,Africa,9,8,Google Earth,NULL,CM
+447,Nepal,2013,Kathmandu Model Hospital,Kathmandu,0,0,0,0,0,0,0,0,0,0,0,0,,27.7025,85.32,20122013,Southern Asia,Asia,9,8,Google Earth,59078,NP
