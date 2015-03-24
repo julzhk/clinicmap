@@ -28,6 +28,7 @@
             );
         };
         function generate_colour(label) {
+            return '#f00';
             colno=0;
             index = _.map(major_sponsor, function (sponsor, i) {
                         if (label.indexOf(sponsor) > -1)
@@ -434,7 +435,7 @@
                                 arr[0],
                                 arr[1] ,
                                 arr[2] ,
-                                null,
+                                map,
                                 arr[3]
                         )
                     }
@@ -481,8 +482,8 @@
                 'FfFF','OneByOne','CBM','GFMER','Other']
             sponsor_list = major_sponsor;
             _.map(sponsor_list, function(org_name){
-                            $( ".filter" ).append( '<span class="check"><input type="checkbox" value="'+
-                            org_name+ '">'+org_name +'</span>' );
+                            $( ".filter" ).append( '<span class="check"><input type="checkbox" checked="checked" ' +
+                            'value="'+org_name+ '">'+org_name +'</span>' );
                         });
 
             google_map_initialize();
