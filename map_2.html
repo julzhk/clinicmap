@@ -40,8 +40,9 @@
         };
 
         function make_circle(latitude, longitude, label, map, size ) {
-            return new google.maps.Circle({
-              strokeColor: '#FF0000',
+
+            var position = new google.maps.LatLng(latitude, longitude);
+            circle = new google.maps.Circle({
               strokeColor: '#000',
               strokeOpacity: 0.4,
               strokeWeight: 1,
@@ -49,9 +50,18 @@
               fillOpacity: 0.75,
               labelClass:label,
               map: map,
-              center: new google.maps.LatLng(latitude, longitude),
+              center: position,
               radius: 50000+ (20000*size)
             });
+            var infowindow = new google.maps.InfoWindow({
+                content: label,
+                position:position
+            });
+            google.maps.event.addListener(circle, 'click', function() {
+                infowindow.open(map,circle);
+            });
+
+            return circle;
         }
         function google_map_initialize() {
             var mapdata = [
