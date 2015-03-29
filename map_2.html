@@ -18,6 +18,10 @@
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
     <script src="https://code.jquery.com/jquery-2.1.3.min.js"></script>
     <script>
+        var colorlist = ['#FFB300', '#803E75', '#FF6800', '#A6BDD7', '#C10020', '#CEA262', '#817066',
+                '#007D34', '#F6768E', '#00538A', '#FF7A5C', '#53377A', '#FF8E00', '#B32851', '#F4C800',
+                '#7F180D', '#93AA00', '#593315', '#F13A13', '#232C16'
+            ];
         function make_marker(latitude, longitude, label, map) {
             return new google.maps.Marker(
                     {
@@ -28,27 +32,21 @@
             );
         };
         function generate_colour(label) {
-            return '#f00';
-            colno=0;
-            index = _.map(major_sponsor, function (sponsor, i) {
-                        if (label.indexOf(sponsor) > -1)
-                        {
-                             colno = i;
-                        }
-                    }
-            );
-            colorlist = ['#111','#222','#333','#444','#555'];
-            colour = _.indexOf(colorlist, colno);
+            i = _.indexOf(major_sponsor, label, false);
+            if (i==-1){i=1}
+
+            colour = colorlist[i]
             return colour;
         };
 
         function make_circle(latitude, longitude, label, map, size ) {
             return new google.maps.Circle({
               strokeColor: '#FF0000',
+              strokeColor: '#000',
               strokeOpacity: 0.4,
               strokeWeight: 1,
               fillColor: generate_colour(label),
-              fillOpacity: 0.5,
+              fillOpacity: 0.75,
               labelClass:label,
               map: map,
               center: new google.maps.LatLng(latitude, longitude),
@@ -480,10 +478,12 @@
 
             major_sponsor = ['FF','UNFPA','Engender','AMREF','WAHA','MSF','DRI',
                 'FfFF','OneByOne','CBM','GFMER','Other']
-            sponsor_list = major_sponsor;
-            _.map(sponsor_list, function(org_name){
-                            $( ".filter" ).append( '<span class="check"><input type="checkbox" checked="checked" ' +
-                            'value="'+org_name+ '">'+org_name +'</span>' );
+
+            _.map(major_sponsor, function(org_name,k){
+                colr  = colorlist[k];
+                swatch = '<span style="background-color:'+colr + '; width:2em;">&nbsp;&nbsp;</span>';
+                            $( ".filter" ).append(swatch +  '<span class="check"><input type="checkbox" checked="checked" ' +
+                                     ' value="'+org_name+ '">'+org_name +'</span>' );
                         });
 
             google_map_initialize();
