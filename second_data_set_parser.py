@@ -14,17 +14,16 @@ def main():
     reader = csv.DictReader(open(fn, 'rU'))
     other_sponsors = []
     for i,row in enumerate(reader):
-        count = 0
         if row['List Other']:
-            sponsors = [row['List Other']]
+            sponsors = row['List Other'].split(',')
         else:
             sponsors = []
         other_sponsors = other_sponsors + (row['List Other']).split(',')
         for sponsor_row in sponsor_rows:
             if row[sponsor_row] == '0' or row[sponsor_row] == 0:
                 continue
-            count += 1
             sponsors.append(sponsor_row)
+        count = len(sponsors)
         sponsors = ','.join(sponsors) or '-'
         print '[%(lat)s, %(long)s, "%(sponsors)s",%(count)s],'% {
             'lat':row['Latitude'],
