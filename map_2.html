@@ -10,7 +10,7 @@
         margin: 0px;
         padding: 0px
       }
-        .filter .check { padding-right: 2em;
+        .filter .check, .filter .check_num { padding-right: 2em;
         }
     </style>
       <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
@@ -490,33 +490,58 @@
             _.map(major_sponsor, function(org_name,k){
                 colr  = colorlist[k];
                 swatch = '<span style="background-color:'+colr + '; width:2em;">&nbsp;&nbsp;</span>';
-                            $( ".filter" ).append(swatch +  '<span class="check"><input type="checkbox" checked="checked" ' +
-                                     ' value="'+org_name+ '">'+org_name +'</span>' );
+                $( ".filter" ).append(swatch +  '<span class="check"><input type="checkbox" checked="checked" ' +
+                             ' value="'+org_name+ '">'+org_name +'</span>' );
+                        });
+            $( ".filter" ).append('<br> Filter by number of sponsors: ');
+            _.map(_.range(9), function(num,key){
+                $( ".filter" ).append('<span class="check_num"><input type="checkbox" checked="checked" ' +
+                                     ' value="'+num + '">'+ num  +'</span>' );
                         });
 
             google_map_initialize();
-//            listen for changes in checkboxes
-          $('input[type=checkbox]').change(
-                function(){
+//            listen for changes in checkboxes (label filters)
+          $('input[type=checkbox]').change(function(){
                     var checkval=$(this).val();
                     var filtered_map_points = _.filter(map_points,
                                                     function(pt){
                                                         return pt.labelClass.indexOf(checkval) > -1
                                                     });
-                     if (this.checked) {
-//                         console.log('checked');
-                         _.map(filtered_map_points,
-                            function(pt) {
-                                console.log('checked');
+                     if (this.checked) {_.map(filtered_map_points,function(pt) {
+//                                console.log('checked');
                                 pt.setMap(map);
                             });
                         } else {
-//                         console.log('unchckecked');
                          _.map(filtered_map_points,
                             function(pt) {
                                 pt.setMap(null);
                             })}
                 })
+            //            listen for changes in checkboxes (label filters)
+          $('.check_num input[type=checkbox]').change(function() {
+              var checkval = $(this).val();
+              console.log('num checked');
+              var map_points_with_num_sponsors = _.filter(map_points,
+                                                    function(pt){
+                                                        if (checkval == 0){
+                                                            return pt.labelClass == '-'
+                                                        } else {
+                                                            sponsorcount=pt.labelClass.split(",").length;
+                                                            return sponsorcount == checkval && pt.labelClass != '-'
+                                                        }
+
+                                                    });
+              if (this.checked) {_.map(map_points_with_num_sponsors,function(pt) {
+//                                console.log('checked');
+                                pt.setMap(map);
+                            });
+                        } else {
+                         _.map(map_points_with_num_sponsors,
+                            function(pt) {
+                                pt.setMap(null);
+                            })}
+                })
+
     });
     </script>
   </head>
